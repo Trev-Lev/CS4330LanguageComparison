@@ -2,10 +2,9 @@
 ##### Trevor Levins
 Languages compared: **Java** and **Kotlin**
 
-Include...
-- **Language Purpose and Genesis**
-- **Unique features of the language**
-- **Name Spaces**
+- [Language purpose and genesis](markdown/LanguagePurpose.md)
+- [Unique features of the language](markdown/UniqueFeatures.md)
+- [Namespaces](markdown/Namespaces.md)
 - **Types**
 - **Classes**
 - **Instance reference name in data type**
