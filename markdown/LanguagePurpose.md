@@ -24,4 +24,6 @@ As for the name, **Kotlin** was named after an Island near St. Petersburg, as th
 
 <https://en.wikipedia.org/wiki/Java_(programming_language)>
 
-<https://en.wikipedia.org/wiki/Kotlin_(programming_language)>
+<https://en.wikipedia.org/wiki/Kotlin_(programming_language>
+
+[Back to main](../README.md)
