@@ -6,7 +6,7 @@ Languages compared: **Java** and **Kotlin**
 - [Unique features of the language](markdown/UniqueFeatures.md)
 - [Namespaces](markdown/Namespaces.md)
 - [Types](markdown/Types.md)
-- **Classes**
+- [Classes](markdown/Classes.md)
 - **Instance reference name in data type**
 - **Properties**
 - **Interfaces/protocols**
