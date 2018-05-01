@@ -7,8 +7,8 @@ Languages compared: **Java** and **Kotlin**
 - [Namespaces](markdown/Namespaces.md)
 - [Types](markdown/Types.md)
 - [Classes](markdown/Classes.md)
-- **Instance reference name in data type**
-- **Properties**
+- [Instance and reference names](markdown/InstanceReferenceName.md)
+- [Properties](markdown/Properties.md)
 - **Interfaces/protocols**
 - **Inheritance/extension**
 - **Reflection**
