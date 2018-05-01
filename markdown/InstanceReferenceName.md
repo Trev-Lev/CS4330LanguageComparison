@@ -29,7 +29,7 @@ Examples of Kotlin's non-Java like this, from Kotlin's website:
         inner class B {
             fun Int.foo() {
                 val a = this@A  // Refers to A
-                val b = thisAB  // Refers to B
+                val b = this@B  // Refers to B
                 val x = this    // Refers to foo()
             }
         }

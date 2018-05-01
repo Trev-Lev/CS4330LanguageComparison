@@ -9,8 +9,8 @@ Languages compared: **Java** and **Kotlin**
 - [Classes](markdown/Classes.md)
 - [Instance and reference names](markdown/InstanceReferenceName.md)
 - [Properties](markdown/Properties.md)
-- **Interfaces/protocols**
-- **Inheritance/extension**
+- [Interfaces](markdown/InterfacesVsProtocols.md)
+- [Inheritance and extension](markdown/InheritanceAndExtension.md)
 - **Reflection**
 - **Memory Management**
 - **Comparisons of references and values**
