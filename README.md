@@ -11,9 +11,9 @@ Languages compared: **Java** and **Kotlin**
 - [Properties](markdown/Properties.md)
 - [Interfaces](markdown/InterfacesVsProtocols.md)
 - [Inheritance and extension](markdown/InheritanceAndExtension.md)
-- **Reflection**
-- **Memory Management**
-- **Comparisons of references and values**
+- [Reflection](markdown/Reflection.md)
+- [Memory management](markdown/MemoryManagement.md)
+- [Comparisons of references and values](markdown/ReferencesAndValues.md)
 - **Null/nil references**
 - **Errors and exception handling**
 - **Lambda expressions, closures, or functions as types**
