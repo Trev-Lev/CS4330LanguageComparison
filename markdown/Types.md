@@ -39,5 +39,4 @@ In neither Java nor Kotlin can new primitive/basic types be created, so the answ
 
 Both languages support the creation of new objects (Java in classes, Kotlin in classes and data classes), but these are passed by value (a pointer) in the same manner as mentioned earlier in the document.
 
-
 [Back to main](../README.md)
